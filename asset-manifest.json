@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router11-dom-antd/static/css/main.e6c13ad2.css",
+    "main.js": "/react-router11-dom-antd/static/js/main.11a8b059.js",
+    "index.html": "/react-router11-dom-antd/index.html",
+    "main.e6c13ad2.css.map": "/react-router11-dom-antd/static/css/main.e6c13ad2.css.map",
+    "main.11a8b059.js.map": "/react-router11-dom-antd/static/js/main.11a8b059.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.11a8b059.js"
+  ]
+}
